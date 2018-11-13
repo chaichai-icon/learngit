@@ -1,8 +1,4 @@
 111
 uhfukduhfakuglanjdkfvnjk
-<<<<<<< HEAD
-1234
-=======
-dyguyfgd
->>>>>>> featuel
+
 Creating a new branch is quick and simple.
